@@ -1,0 +1,23 @@
+.container{max-width: 98%;}
+.btn{
+    background-color: #0d2f70;
+}
+
+form{
+    padding: 10rem 3rem 4rem 3rem;
+
+}
+
+img{
+    width: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 12rem;
+}
+
+@media only screen and (min-width: 768px){
+    img{
+        height: 40rem;
+    }
+}
